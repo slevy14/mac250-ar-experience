@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d58c52ff9f122a49a289c83a1611436, type: 3}
+  m_Name: PTP_prefabs
+  m_EditorClassIdentifier: 
+  Entries:
+  - MeshId: Olive
+    Prefab: {fileID: 370432711061994974, guid: 2360b955f25144e53a65194f496c2bb5, type: 3}
+  - MeshId: Orange
+    Prefab: {fileID: 870586033490348595, guid: 62b85727c025a4a3b83d68c89b00f880, type: 3}
+  - MeshId: Lavender
+    Prefab: {fileID: 3522268989396060803, guid: bfeacb8063ad84caaaee189cc3fc3bdd,
+      type: 3}
+  - MeshId: Lemon
+    Prefab: {fileID: 5292304825280517321, guid: 47f16b798bd12439b8b1bf7a592698cf,
+      type: 3}
+  - MeshId: Hibiscus
+    Prefab: {fileID: 5292304825280517321, guid: 255d7ceccf7574210841f7b5b87e56c8,
+      type: 3}
+  - MeshId: Eucalyptus
+    Prefab: {fileID: 6249603483070919043, guid: 4aae1d8264eba44208bfb6921d7ebeb3,
+      type: 3}

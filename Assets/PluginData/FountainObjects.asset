@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d58c52ff9f122a49a289c83a1611436, type: 3}
+  m_Name: FountainObjects
+  m_EditorClassIdentifier: 
+  Entries:
+  - MeshId: object1
+    Prefab: {fileID: 6634665568581816810, guid: 73bd339bdd4ce4809bda93912744dec2,
+      type: 3}
+  - MeshId: object2
+    Prefab: {fileID: 3878656980133291032, guid: c638369fca13d47da942a1578789ce18,
+      type: 3}
+  - MeshId: object3
+    Prefab: {fileID: 5948330938920716697, guid: 840529c9091914662be186178cd4e6a9,
+      type: 3}
+  - MeshId: object4
+    Prefab: {fileID: 6209257249038261692, guid: 83b05785a23a747acbc65de0ce1776f3,
+      type: 3}

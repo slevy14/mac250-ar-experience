@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d58c52ff9f122a49a289c83a1611436, type: 3}
+  m_Name: KeckObjects
+  m_EditorClassIdentifier: 
+  Entries:
+  - MeshId: object1
+    Prefab: {fileID: 6778112626975758899, guid: 74ee2b6748a374801b97a2d4fee0e395,
+      type: 3}
+  - MeshId: object2
+    Prefab: {fileID: 3090795935195610425, guid: 9e39813cdf28e4c49ab8f47ee3af93eb,
+      type: 3}
+  - MeshId: object3
+    Prefab: {fileID: 6202437952145656305, guid: 7fade18d5f1884426a3aab0bfccf47f1,
+      type: 3}
+  - MeshId: object4
+    Prefab: {fileID: 3482747277942673376, guid: 46f5a694435d64cda86fbdb77348d000,
+      type: 3}

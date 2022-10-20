@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d58c52ff9f122a49a289c83a1611436, type: 3}
+  m_Name: OIF_prefabs
+  m_EditorClassIdentifier: 
+  Entries:
+  - MeshId: CluelessQuad2
+    Prefab: {fileID: 7464403372285950482, guid: ef12f90dabbf24dde9a9c29cae7d954f,
+      type: 3}
+  - MeshId: CluelessQuad1
+    Prefab: {fileID: 2832390227722179843, guid: 7c464c896a46648f1bbcee8040dc4fa9,
+      type: 3}
+  - MeshId: StarTrekGilman
+    Prefab: {fileID: 3789031919718078413, guid: aa22f287c210344858f0a7db5c560a8b,
+      type: 3}
+  - MeshId: DontBeAMenaceGilman
+    Prefab: {fileID: 454465868862454696, guid: 93d4f1d79b32b4ea8873c8dbc10293c4, type: 3}
+  - MeshId: GleeGilman
+    Prefab: {fileID: 3474401504007330883, guid: 5214f4efeebc84cb1bd214791ad64ad6,
+      type: 3}
+  - MeshId: JurassicParkThorne
+    Prefab: {fileID: 5554064327317087384, guid: 7a0b930d2b2f74dc0a2254dc1ad804b6,
+      type: 3}
+  - MeshId: 90210Throne
+    Prefab: {fileID: 824912485849447704, guid: 807492c2dacf444c0b732b6d75b4a94c, type: 3}
+  - MeshId: HolidayThorne
+    Prefab: {fileID: 1442607372055519311, guid: d785e169ef3a64b6281d58335944c331,
+      type: 3}
+  - MeshId: WestWingThorne
+    Prefab: {fileID: 2992723547199660805, guid: 63e2a5eb2ce2a4783ad38c89bd318ecd,
+      type: 3}
+  - MeshId: PatAndMikeMP
+    Prefab: {fileID: 8782617192590627672, guid: 5b7e18d54772c48e6a12c32d6fbbe7f8,
+      type: 3}
