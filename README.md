@@ -9,7 +9,7 @@ A location-based, augmented reality mobile app developed in Unity. Created as a 
 * Video and audio support for AR objects
 
 ## Screenshots
-GitHub won't led me add screenshots here, but you can find screenshots and gifs of the project [on my website here](https://slevy14.github.io/mac250-screenshots.html).
+Screenshots and gifs of the project in action can be found [on my website here.](https://slevy14.github.io/mac250-screenshots.html)
 
 ## Credit / Disclaimer
 Version control was done using Unity's now deprecated Unity Collab, hence the lack of commits on GitHub.  
